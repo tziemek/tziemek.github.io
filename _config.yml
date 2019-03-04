@@ -6,13 +6,13 @@ markdown: kramdown
 kramdown:
    input: GFM
 
-link-tags: true
+#link-tags: true
 
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
 #github: [metadata]
 # encoding: UTF-8
 # kramdown:
