@@ -8,11 +8,11 @@ kramdown:
 
 #link-tags: true
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-paginate
 
-#theme: jekyll-theme-primer
+theme: jekyll-theme-architect
 #github: [metadata]
 # encoding: UTF-8
 # kramdown:
