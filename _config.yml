@@ -1,3 +1,8 @@
+title: My custom title TODO
+description: maybe i could put some description here
+
+show_downloads: "true"
+
 navbar-links:
   About Me: "aboutme"
 
