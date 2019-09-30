@@ -1,2 +1,0 @@
-# Our journey in DevOps
-
