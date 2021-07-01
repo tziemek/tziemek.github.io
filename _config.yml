@@ -1,7 +1,7 @@
 title: My custom title TODO
 description: maybe i could put some description here
 
-show_downloads: "true"
+show_downloads: "false"
 
 navbar-links:
   About Me: "aboutme"
@@ -17,7 +17,7 @@ kramdown:
 #  - jekyll-sitemap
 #  - jekyll-paginate
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
 #github: [metadata]
 # encoding: UTF-8
 # kramdown:
